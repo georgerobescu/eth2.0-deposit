@@ -2,7 +2,7 @@
   "+3PPtT": [
     {
       "type": 0,
-      "value": "Today, you'll secure the Beacon Chain, the first Eth2 upgrade. It's a separate chain that uses a proof-of-stake consensus mechanism. Eventually you'll help secure all of Ethereum, once mainnet (the Ethereum we use today) merges with the Beacon Chain."
+      "value": "The STAKE Beacon Chain uses proof-of-stake to achieve consensus on which transactions are added to the chain. The SBC is the coordination layer, and additional chains will be added in the future to provide the data and operations layer."
     }
   ],
   "+L0IkF": [
@@ -164,7 +164,7 @@
     },
     {
       "type": 1,
-      "value": "TICKER_NAME"
+      "value": "STAKE"
     },
     {
       "type": 0,
@@ -298,7 +298,7 @@
   "0qvZJn": [
     {
       "type": 0,
-      "value": "More on the Eth2 vision"
+      "value": "More on the Stake Beacon Chain"
     }
   ],
   "0uqjBl": [
@@ -476,7 +476,7 @@
   "36KKVb": [
     {
       "type": 0,
-      "value": "More on Eth2 economics"
+      "value": "More on staking economics"
     }
   ],
   "38VH2G": [
@@ -552,7 +552,7 @@
     },
     {
       "type": 0,
-      "value": " of my Eth2 client."
+      "value": " of my SBC client."
     }
   ],
   "3Q43SM": [
@@ -646,7 +646,7 @@
   "4QNsja": [
     {
       "type": 0,
-      "value": "Why a sliding scale? While we won’t get into the gory details here, the basic intution is that there needs to be a minimum number of validators (and hence a minimum amount of ETH staked) for the network to function properly. So, to incentivize more validators to join, it’s important that the interest rate remains high until this minimum number is reached."
+      "value": "Why a sliding scale? While we won’t get into the gory details here, the basic intution is that there needs to be a minimum number of validators (and hence a minimum amount of STAKE staked) for the network to function properly. So, to incentivize more validators to join, it’s important that the interest rate remains high until this minimum number is reached."
     }
   ],
   "4hnEBA": [
@@ -962,7 +962,7 @@
     },
     {
       "type": 0,
-      "value": " ETH at stake?"
+      "value": " STAKE at stake?"
     }
   ],
   "9JktQX": [
@@ -1016,7 +1016,7 @@
   "A/iYbo": [
     {
       "type": 0,
-      "value": "The Eth2 upgrades will only be successful if validators understand the risks and responsibilities."
+      "value": "The SBC upgrades will only be successful if validators understand the risks and responsibilities."
     }
   ],
   "A2b4uB": [
@@ -1150,7 +1150,7 @@
   "BB65vH": [
     {
       "type": 0,
-      "value": "You can think of the deposit contract as a transfer of funds between Ethereum accounts and Eth2 validators."
+      "value": "You can think of the deposit contract as a transfer of funds between accounts and SBC validators."
     }
   ],
   "BCsPjJ": [
@@ -1168,7 +1168,7 @@
   "BFfsSX": [
     {
       "type": 0,
-      "value": "The Eth2 deposit contract requires a minimum of "
+      "value": "The SBC deposit contract requires a minimum of "
     },
     {
       "type": 1,
@@ -1278,13 +1278,13 @@
   "CVDzDs": [
     {
       "type": 0,
-      "value": "You should certainly top up if your balance is close to 16 ETH. This is to ensure you don’t get kicked out of the validator set (which automatically happens if your balance falls below 16 ETH)."
+      "value": "You should certainly top up if your balance is close to 16 STAKE. This is to ensure you don’t get kicked out of the validator set (which automatically happens if your balance falls below 16 STAKE)."
     }
   ],
   "CdKEd/": [
     {
       "type": 0,
-      "value": "The minimum amount that can be slashed is 1 ETH, but "
+      "value": "The minimum amount that can be slashed is 1 STAKE, but "
     },
     {
       "type": 1,
@@ -1304,7 +1304,7 @@
   "Cv+T7+": [
     {
       "type": 0,
-      "value": "Slashing has two purposes: (1) to make it prohibitively expensive to attack Eth2, and (2) to stop validators from being lazy by checking that they actually perform their duties. If you're slashed because you've acted in a provably destructive manner, a portion of your stake will be destroyed."
+      "value": "Slashing has two purposes: (1) to make it prohibitively expensive to attack, and (2) to stop validators from being lazy by checking that they actually perform their duties. If you're slashed because you've acted in a provably destructive manner, a portion of your stake will be destroyed."
     }
   ],
   "D0Rigq": [
@@ -1322,7 +1322,7 @@
   "D4cQV/": [
     {
       "type": 0,
-      "value": "How much ETH do I need to stake to become a validator?"
+      "value": "How much STAKE do I need to stake to become a validator?"
     }
   ],
   "DCaq7N": [
@@ -1558,7 +1558,7 @@
   "G6kg26": [
     {
       "type": 0,
-      "value": "Eth2 Clients: "
+      "value": "SBC Clients: "
     },
     {
       "type": 1,
@@ -1616,7 +1616,7 @@
   "GrU/lp": [
     {
       "type": 0,
-      "value": "The Eth2 clients"
+      "value": "The SBC clients"
     }
   ],
   "GsBRWL": [
@@ -1692,7 +1692,7 @@
   "IAKvZ0": [
     {
       "type": 0,
-      "value": "The Eth2 upgrades"
+      "value": "The SBC upgrades"
     }
   ],
   "IJw06E": [
@@ -1704,7 +1704,7 @@
   "IVyWYt": [
     {
       "type": 0,
-      "value": "Note that in the second (unlikely) scenario, you stand to progressively lose up to 50% (16 ETH) of your stake over 21 days. After 21 days you are ejected out of the validator pool. This ensures that blocks start finalizing again at some point."
+      "value": "Note that in the second (unlikely) scenario, you stand to progressively lose up to 50% (16 STAKE) of your stake over 21 days. After 21 days you are ejected out of the validator pool. This ensures that blocks start finalizing again at some point."
     }
   ],
   "IZFEUg": [
@@ -1834,7 +1834,7 @@
   "JYrJic": [
     {
       "type": 0,
-      "value": "Avoid Eth2 phishing"
+      "value": "Avoid phishing"
     }
   ],
   "JhUYU3": [
@@ -2066,7 +2066,7 @@
   "MPHPEO": [
     {
       "type": 0,
-      "value": "I'm able to connect my Eth2 beacon node to my Eth1 client via HTTP API(s)."
+      "value": "I'm able to connect my SBC beacon node to my client via HTTP API(s)."
     }
   ],
   "MQTBvH": [
@@ -2108,7 +2108,7 @@
   "MbsAo3": [
     {
       "type": 0,
-      "value": "This launchpad will help you become a validator, so you can play an active part in Ethereum's future. Validators are key to the more secure, scalable, and sustainable Ethereum we're building together."
+      "value": "This site will guide you through the process to become a validator on SBC. Validators on SBC can participate in network decentralization with a much lower barrier to entry."
     }
   ],
   "Mc8nNE": [
@@ -2158,7 +2158,7 @@
     },
     {
       "type": 0,
-      "value": " to connect your Eth2 node to the JSON RPC endpoint. This will enable the JSON RPC services on the default 8545 port."
+      "value": " to connect your SBC node to the JSON RPC endpoint. This will enable the JSON RPC services on the default 8545 port."
     }
   ],
   "NEmnAV": [
@@ -2200,7 +2200,7 @@
   "NVQd7i": [
     {
       "type": 0,
-      "value": "To process incoming validator deposits from mainnet (the Eth1 chain), you'll need to run an Eth1 client in parallel to your Eth2 client. While you can use a third-party service like Infura, we recommend running your own client in order to ensure the network stays as decentralised as possible."
+      "value": "To process incoming validator deposits from mainnet (the Eth1 chain), you'll need to run a client in parallel to your SBC client. While you can use a third-party service like Infura, we recommend running your own client in order to ensure the network stays as decentralised as possible."
     }
   ],
   "NVljH4": [
@@ -2238,7 +2238,7 @@
   "NZsVaA": [
     {
       "type": 0,
-      "value": "Validators and Eth2"
+      "value": "Validators and SBC"
     }
   ],
   "Nb5DNK": [
@@ -2278,7 +2278,7 @@
   "O54B/F": [
     {
       "type": 0,
-      "value": "The Eth2 network"
+      "value": "The SBC network"
     }
   ],
   "OIvXIO": [
@@ -2378,7 +2378,7 @@
   "PboOCR": [
     {
       "type": 0,
-      "value": "Configure your Eth2 client"
+      "value": "Configure your SBC client"
     }
   ],
   "PfoT0C": [
@@ -2420,7 +2420,7 @@
   "PyArfT": [
     {
       "type": 0,
-      "value": "Eth1 address withdrawal: If you want to withdraw to Eth1 chain after the merge, you can set "
+      "value": "Address withdrawal: If you want to withdraw to Eth1 chain after the merge, you can set "
     },
     {
       "type": 1,
@@ -2552,7 +2552,7 @@
   "RIFLCz": [
     {
       "type": 0,
-      "value": "Phishing is a very real risk for Eth2 validators and, unfortunately, many people will lose funds due to these attacks."
+      "value": "Phishing is a very real risk for validators and, unfortunately, many people will lose funds due to these attacks."
     }
   ],
   "ROHpFF": [
@@ -2576,13 +2576,13 @@
   "RYUKCz": [
     {
       "type": 0,
-      "value": "I've simulated how to migrate from one Eth2 client to another Eth2 client."
+      "value": "I've simulated how to migrate from one SBC client to another SBC client."
     }
   ],
   "RaBZna": [
     {
       "type": 0,
-      "value": "If you go offline for a number of days under normal conditions you will lose an amount of ETH roughly equivalent to the amount of ETH you would have gained in that period. In other words, if you stood to earn ≈0.01 ETH, you would instead be penalised ≈0.01 ETH."
+      "value": "If you go offline for a number of days under normal conditions you will lose an amount of STAKE roughly equivalent to the amount of ETH you would have gained in that period. In other words, if you stood to earn ≈0.01 ETH, you would instead be penalised ≈0.01 ETH."
     }
   ],
   "Rg5ySE": [
@@ -2610,7 +2610,7 @@
     },
     {
       "type": 1,
-      "value": "TICKER_NAME"
+      "value": "STAKE"
     },
     {
       "type": 0,
@@ -2766,7 +2766,7 @@
   "TmYprU": [
     {
       "type": 0,
-      "value": "Eth2 "
+      "value": "SBC"
     },
     {
       "type": 1,
@@ -2804,7 +2804,7 @@
   "U7PMU1": [
     {
       "type": 0,
-      "value": "The Eth2 clients support Prometheus and Grafana to help you visualise important real-time metrics about your validator. You can find client-specific instructions here: "
+      "value": "The SBC clients support Prometheus and Grafana to help you visualise important real-time metrics about your validator. You can find client-specific instructions here: "
     },
     {
       "type": 1,
@@ -2892,7 +2892,7 @@
   "UykRIk": [
     {
       "type": 0,
-      "value": "Becoming a validator is a big responsibility with important preparation steps. Only start the deposit process when you're ready."
+      "value": "Becoming an SBC validator requires several steps along with some technical know-how and 32 STAKE. Proceed when you are ready."
     }
   ],
   "V0cb8p": [
@@ -3006,7 +3006,7 @@
   "VSSmNp": [
     {
       "type": 0,
-      "value": "In other words: if the total amount of ETH staked is low, the reward (interest rate) is high, but as the total stake rises, the reward (interest) paid out to each validator starts to fall."
+      "value": "In other words: if the total amount of STAKE staked is low, the reward (interest rate) is high, but as the total stake rises, the reward (interest) paid out to each validator starts to fall."
     }
   ],
   "VUuZsb": [
@@ -3018,7 +3018,7 @@
   "VY3/Wo": [
     {
       "type": 0,
-      "value": "To become a validator, you will need to be able to run commands in the terminal on your computer. Generating your new Eth2 key pairs and installing the validator software are both done in the terminal."
+      "value": "To become a validator, you will need to be able to run commands in the terminal on your computer. Generating your new SBC key pairs and installing the validator software are both done in the terminal."
     }
   ],
   "VctWDX": [
@@ -3054,7 +3054,7 @@
   "W9JuAN": [
     {
       "type": 0,
-      "value": "Eth2 Validator Client (VC)"
+      "value": "SBC Validator Client (VC)"
     }
   ],
   "WFVzvu": [
@@ -3096,7 +3096,7 @@
     },
     {
       "type": 0,
-      "value": " to connect your Eth2 node to the JSON RPC endpoint. This will enable the JSON RPC services on the default 8545 port."
+      "value": " to connect your SBC node to the JSON RPC endpoint. This will enable the JSON RPC services on the default 8545 port."
     }
   ],
   "WTPUDZ": [
@@ -3108,7 +3108,7 @@
   "Wao7OA": [
     {
       "type": 0,
-      "value": "Eth2 Beacon Node (BN)"
+      "value": "STAKE Beacon Node (BN)"
     }
   ],
   "WkrNSk": [
@@ -3144,7 +3144,7 @@
   "X0dSr0": [
     {
       "type": 0,
-      "value": "It is high risk to run your Eth2 validator in multiple places. It will lead to a slashable event and ejection from the network. "
+      "value": "It is high risk to run your SBC validator in multiple places. It will lead to a slashable event and ejection from the network. "
     },
     {
       "type": 1,
@@ -3380,7 +3380,7 @@
   "ZRbxwY": [
     {
       "type": 0,
-      "value": "Eth2 validator checklist"
+      "value": "SBC validator checklist"
     }
   ],
   "ZTo0Fl": [
@@ -3486,7 +3486,7 @@
     },
     {
       "type": 0,
-      "value": " ETH staked."
+      "value": " STAKE staked."
     }
   ],
   "b4csjU": [
@@ -3600,7 +3600,7 @@
   "cs9mQw": [
     {
       "type": 0,
-      "value": "Learn more about the roles and responsibilities of Eth2 validators."
+      "value": "Learn more about the roles and responsibilities of SBC validators."
     }
   ],
   "cyR7Kh": [
@@ -3712,7 +3712,7 @@
   "eIRc60": [
     {
       "type": 0,
-      "value": "More on Eth2"
+      "value": "More on SBC"
     }
   ],
   "eKEL/g": [
@@ -3748,7 +3748,7 @@
   "elCkOU": [
     {
       "type": 0,
-      "value": "More on the merge"
+      "value": "SBC Roadmap"
     }
   ],
   "erZJkZ": [
@@ -3864,7 +3864,7 @@
   "gAdE9y": [
     {
       "type": 0,
-      "value": "Thank you for supporting the Eth2 network!"
+      "value": "Thank you for supporting the SBC network!"
     }
   ],
   "gIauNz": [
@@ -4054,7 +4054,7 @@
   "iBYfM0": [
     {
       "type": 0,
-      "value": "You'll need to run an Eth1 and an Eth2 node to become a validator. Take a look at the checklist to prepare yourself and your equipment."
+      "value": "You'll need to an SBC node to become a validator. Take a look at the checklist to prepare yourself and your equipment."
     }
   ],
   "iCpuph": [
@@ -4144,7 +4144,7 @@
   "j4ctVP": [
     {
       "type": 0,
-      "value": "The Eth2 specification"
+      "value": "The SBC specification"
     }
   ],
   "jDv/zO": [
@@ -4168,7 +4168,7 @@
   "jZVChZ": [
     {
       "type": 0,
-      "value": "I've imported my keystore(s) into my Eth2 validator client."
+      "value": "I've imported my keystore(s) into my SBC validator client."
     }
   ],
   "jecC36": [
@@ -4210,7 +4210,7 @@
   "jyN21A": [
     {
       "type": 0,
-      "value": "Eth2 Launchpad"
+      "value": "SBC Launchpad"
     }
   ],
   "jytPQU": [
@@ -4264,7 +4264,7 @@
   "km7b1A": [
     {
       "type": 0,
-      "value": "Over time, your balance will decrease as you are punished for not participating in the consensus process. When your balance reaches 16 ETH, you will be automatically exited from the validator pool."
+      "value": "Over time, your balance will decrease as you are punished for not participating in the consensus process. When your balance reaches 16 STAKE, you will be automatically exited from the validator pool."
     }
   ],
   "kn7kJd": [
@@ -4338,7 +4338,7 @@
   "lJNmgK": [
     {
       "type": 0,
-      "value": "How does Eth2 upgrade Ethereum?"
+      "value": "How does SBC upgrade Ethereum?"
     }
   ],
   "lLOZMD": [
@@ -4390,7 +4390,7 @@
     },
     {
       "type": 1,
-      "value": "TICKER_NAME"
+      "value": "STAKE"
     },
     {
       "type": 0,
@@ -4810,13 +4810,13 @@
   "q6sz6X": [
     {
       "type": 0,
-      "value": "Eth2 economics"
+      "value": "SBC economics"
     }
   ],
   "qDcbPp": [
     {
       "type": 0,
-      "value": "Your 16 ETH can then be withdrawn – with your withdrawal key – after a delay of around a day."
+      "value": "Your 16 STAKE can then be withdrawn – with your withdrawal key – after a delay of around a day."
     }
   ],
   "qDvaNm": [
@@ -4930,7 +4930,7 @@
   "rFe61n": [
     {
       "type": 0,
-      "value": "As a validator, you'll be responsible for securing the network and receive continuous payouts for actions that help the network reach consensus."
+      "value": "Validators secure, protect and decentralize the network in exchange for staking rewards."
     }
   ],
   "rNEdex": [
@@ -5250,7 +5250,7 @@
     },
     {
       "type": 0,
-      "value": " ETH. This forms your initial balance."
+      "value": " STAKE. This forms your initial balance."
     }
   ],
   "up+5YH": [
@@ -5436,7 +5436,7 @@
   "x0tVK4": [
     {
       "type": 0,
-      "value": "Validating in Ethereum is not the same as mining. The outcomes are similar: the work you do will extend and secure the chain. But the process is completely different because they use different consensus mechanisms."
+      "value": "Proof of Stake offers many advantages over energy intensive consensus processes like Proof of Work. The SBC is a green, eco-friendly consensus with Ethereum-compatible features in a real-world value environment."
     }
   ],
   "xDyl3T": [
@@ -5616,7 +5616,7 @@
   "zGkAVo": [
     {
       "type": 0,
-      "value": "At the other end of the spectrum, if your balance is closer to 31 ETH, it’s probably not worth adding the extra ETH required to get back to 32."
+      "value": "At the other end of the spectrum, if your balance is closer to 31 STAKE, it’s probably not worth adding the extra STAKE required to get back to 32."
     }
   ],
   "zbEBi9": [
