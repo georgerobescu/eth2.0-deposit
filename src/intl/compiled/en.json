@@ -164,7 +164,7 @@
     },
     {
       "type": 1,
-      "value": "TICKER_NAME"
+      "value": "STAKE"
     },
     {
       "type": 0,
@@ -476,7 +476,7 @@
   "36KKVb": [
     {
       "type": 0,
-      "value": "More on Eth2 economics"
+      "value": "More on staking economics"
     }
   ],
   "38VH2G": [
@@ -2610,7 +2610,7 @@
     },
     {
       "type": 1,
-      "value": "TICKER_NAME"
+      "value": "STAKE"
     },
     {
       "type": 0,
@@ -4390,7 +4390,7 @@
     },
     {
       "type": 1,
-      "value": "TICKER_NAME"
+      "value": "STAKE"
     },
     {
       "type": 0,
